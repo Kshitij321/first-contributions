@@ -66,6 +66,7 @@ nowy wpis
 - [Anne-Marie Nnaedozie] (https://github.com/a-nn-t-s)
 - [Aayush aka Cloudy](https://github.com/gamedevCloudy)
 - [Jongsik Kim](https://github.com/neomax7)
+- [Kshitij Singh](https://github.com/Kshitij321)
 - [Nicolas Alvarez](https://github.com/NiAlvarez)
 - [embTw] (https://github.com/embTw)
 - [Baby Washbear] (https://github.com/babywashbear)
